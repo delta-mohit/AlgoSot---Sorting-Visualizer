@@ -1,10 +1,10 @@
 # Sorting algorithm visualizer
+# Website live link
+# https://algosot.vercel.app/
 
 This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
 
-**Live-** [sorting visualizer](https://algosot.vercel.app/) 
-
-**Code-** [sort visualizer code](google.com)
+**Code Link -** [sort visualizer code](https://github.com/delta-mohit/AlgoSot---Sorting-Visualizer)
 
 ## What the Sorting algorithms inside this application
 
